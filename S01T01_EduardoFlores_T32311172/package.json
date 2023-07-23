@@ -1,0 +1,14 @@
+{
+  "name": "s01t01_eduardoflores_t32311172",
+  "version": "1.0.0",
+  "description": "DDAW | PWII | S01 Tarea01. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "PWII"
+  },
+  "author": "Eduardo Flores T32311172",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
